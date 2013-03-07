@@ -1,3 +1,3 @@
 #!/bin/bash
-cd $(dirname $0)
+cd $(dirname $(readlink $0))/..
 java -classpath config/:lib/* dk.statsbiblioteket.vhsingestmonitor.Watchdog
