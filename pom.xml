@@ -111,8 +111,8 @@
             </dependency>
             <dependency>
                 <groupId>ch.qos.logback</groupId>
-                <artifactId>logback-core</artifactId>
-                <version>1.0.3</version>
+                <artifactId>logback-classic</artifactId>
+                <version>1.0.9</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
