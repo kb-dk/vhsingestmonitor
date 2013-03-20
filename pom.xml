@@ -82,7 +82,7 @@
             <dependency>
                 <groupId>dk.statsbiblioteket.medieplatform</groupId>
                 <artifactId>workflow-state-monitor-model</artifactId>
-                <version>0.7</version>
+                <version>0.8</version>
             </dependency>
             <dependency>
               <groupId>com.sun.jersey</groupId>
