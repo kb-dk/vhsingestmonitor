@@ -5,7 +5,7 @@
     <parent>
         <groupId>vhs-ingest-monitor</groupId>
         <artifactId>vhs-ingest-monitor</artifactId>
-        <version>0.1</version>
+        <version>0.2-SNAPSHOT</version>
     </parent>
     
     <artifactId>vhs-ingest-monitor-cronjob</artifactId>
